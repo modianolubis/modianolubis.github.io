@@ -2,7 +2,9 @@
 
 #### About this site
 
-> Pembahasan website statis yang memperkenalkan bahasa markup HTML dan CSS oleh Hacktiv 8
+> Pembahasan website statis yang memperkenalkan bahasa markup HTML dan CSS oleh Hacktiv 8. Adapun Action Plan berikut adalah bersama tim Hacktive8 akan mengembangkan dan melengkapi semua fitur-fitur yang dapat memberikan nilai tambah pada website ini.
+>
+> 
 
 #### Used tags & Syntaxes
 
