@@ -1,10 +1,10 @@
 # modianolubis.github.io
 
-##### About this site
+#### About this site
 
 > Pembahasan website statis yang memperkenalkan bahasa markup HTML dan CSS oleh Hacktiv 8
 
-##### Used tags & Syntaxes
+#### Used tags & Syntaxes
 
 
 
@@ -40,7 +40,7 @@
 > > font-size
 > > ```
 
-##### About Me
+#### About Me
 
 > Saya merupakan pemula di bidang coding, namun saya memiliki motivasi yang kuat untuk menjadi **Full Stack Javascript** profesional.
 >
