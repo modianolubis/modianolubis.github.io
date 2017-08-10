@@ -1,10 +1,10 @@
 # modianolubis.github.io
 
-#####About this site#####
+#####About this site
 
 > Pembahasan website statis yang memperkenalkan bahasa markup HTML dan CSS oleh Hacktiv 8
 
-##### Used tags & Syntaxes#####
+##### Used tags & Syntaxes
 
 
 
