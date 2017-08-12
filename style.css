@@ -1,80 +1,80 @@
 body {
-    font-family: 'Slabo 27px', serif;
-    font-weight: 400;
-    padding: 0;
-    margin: 0;
-    font-style: normal;
-    background-image: url('sample-pattern.png');
+	background-color: #E0FFFF;
+	margin: 0;
+	
 }
-a {
-    text-decoration: none;
-    cursor: pointer; 
-    }
-a:hover {
-        color: #373737;
-    }
-/*Ment*/
 header {
-  background-color: #fff;
-  width: 100%;
-  height: 10%;
-  position: fixed;
-  padding: 0;
-  margin: 0;
+    background-color: #40E0D0;
+    height: 80px;
+    width: 100%;
+	position: fixed ;
+	
+	
+	
 }
-#logo {
-    position: fixed;
-    top: 10px; padding-left: 5px;
+h1 {
+	font-family: 'Carter One', cursive;
+	color: red ;
+	font-size: 40px;
+	font-weight: normal;
+	text-align: center;
+	
 }
-nav,
-nav ul,
-nav ul li {
-    margin: 0;
-    padding-right: 20px;
+
+h2 {
+	padding-top: 90px;
+	
+}
+
+h2 {
+	padding-top: 120px;
+	
+	
+}
+
+.judul {
+	text-align: center;
+	display: inline-block;
+	padding-left:300px;
+	
+}
+
+
+p {
+	font-family: Arial, serif;
+	line-height: 20px ;
+}
+
+
+
+.logo {
+    float: left;
+    margin-left:40px;
+    margin-top: 5px;
+
+}
+
+div{
+	padding: 1px 100px 100px 100px;
+	
 }
 
 nav {
-    position: absolute;
-    top: 30%; right: 15px;
-}
-ul li {
-    list-style-type: none;
-    display: inline-block;
-    margin-right: 38px;
+    float: right;
+    /*margin-right: 50px;
+    margin-top: 40px;*/
+    margin: 16px 50px 0px 0 ;
+	
 }
 
-/*Isi*/
-section {
-    position: relative;
-    top:15%;
-    bottom: 15%;
-    z-index: -10;
-    height: auto;
+nav li{
+	font-family:'Merienda One', cursive;
+	list-style: none;
+	display: inline-block;
+	padding-right: 10px;
 }
-h1 {
-    text-align: center;
-    font-size: 40px;
-    color: #0b3577;
-}
-#article-list {
-    padding: 20px 20px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    max-width: 720px;
-    margin: auto;
-    background-color: #fff;
-}
-h3 {
-    color: slateblue ;
 
-}
-footer {
-    background-color: #000;
-    color: white;
-    position: relative;
-    top:20%;
-    bottom: 15%;
-    padding-top: 5px;
-    z-index: -10;
-    height: 10%;
-    text-align: center;
+nav li a {
+    color: #fff;
+    text-decoration: none;
 }
